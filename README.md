@@ -1,5 +1,6 @@
-This line has been added to demonstrate the git command.
-tHIS LINE HAS BEEN ADDED TO DEMONSTRATE THE USAGE OF GIT PUSH COMMAND
+#This line has been added to demonstrate the git command.
+#tHIS LINE HAS BEEN ADDED TO DEMONSTRATE THE USAGE OF GIT PUSH COMMAND
+#This line is to demonstrate the usage of SSH Protocol
 # Sample Java Project
 
 This is a reference for setting up a new Ant-based Java project. It
